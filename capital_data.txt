@@ -1,0 +1,10 @@
+india/New Delhi
+japan/Tokyo
+china/Beijing
+usa/Washington D.C.
+france/Paris
+germany/Berlin
+uk/London
+australia/Canberra
+nepal/Kathmandu
+russia/Moscow
